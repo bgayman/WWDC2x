@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Year</key>
+		<string>2015</string>
+		<key>Videos</key>
+		<array>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/1026npwuy2crj2xyuq11/102/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Platforms State of the Union</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/105ncyldc6ofunvsgtan/105/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Introducing WatchKit for watchOS 2</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/106z3yjwpfymnauri96m/106/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>What&apos;s New in Swift</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/104usewvb5m0qbwafx8p/104/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>What&apos;s New in Xcode</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/802mpzd3nzovlygpbg/802/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Designing for Apple Watch</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/709jcaer6su/709/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Introducing Search APIs</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/801auxyvb1pgtkufjk/801/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Designing for Future Hardware</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/212mm5ra3oau66/212/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Optimizing Your App for Multitasking on iPad in iOS 9</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/112lwa56zromr4h6uf0/112/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Think Audacious</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/804eub264zh3x4j9yb/804/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Introducing the New System Fonts</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/408509vyudbqvts/408/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Protocol-Oriented Programming in Swift</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/301tcfp66f/301/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>What&apos;s New in Managing Apple Devices</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/803q4kw6eqia7ssp17/803/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Designing with Animation</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/2187le7kpyhdff/218/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Mysteries of Auto Layout, Part 1</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/219u3bqgvsz2g/219/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Mysteries of Auto Layout, Part 2</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/1075hpxmc54818sn59su/107/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>What&apos;s New in Cocoa Touch</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/215972d0hjjcfx/215/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>What&apos;s New in Storyboards</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/510jiccqsz/510/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>What&apos;s New in Core Image</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/233l9q8hj9mw/233/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Advanced Touch Input on iOS</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/711y6zlz0ll/711/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Networking with NSURLSession</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/4119flfsnsgmlfy/411/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Swift in Practice</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/4072909wwb9o9j3/407/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Implementing UI Designs in Interface Builder</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/805yjy11epjkgmnn11/805/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Apple Watch Design Tips and Tricks</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/1086gvs7f4vryixs49s6/108/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Building Watch Apps</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/608rpwq1ltvg5nmk/608/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Introducing GameplayKit</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/403l7ohdidhmnkgx/403/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Improving Your Existing Apps with Swift</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/602868pb0ow6idb3w/602/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Managing 3D Assets with Model I/O</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/702lp563ezbr/702/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Apple Pay Within Apps</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/7153rwmu2r/715/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>CloudKit Tips and Tricks</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/5059xl75l59/505/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>Using Safari to Deliver and Debug a Responsive Web Design</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2015/710jle9eakx/710/hls_vod_mvp.m3u8</string>
+				<key>Title</key>
+				<string>CloudKit JS and Web Services</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Year</key>
+		<string>2014</string>
+		<key>Videos</key>
+		<array>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/102xxw2o82y78a4/102/102_hd_platforms_state_of_the_union.mov?dl=1</string>
+				<key>Title</key>
+				<string>Platforms State of the Union</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/708xxvfd08bdof2/708/708_hd_taking_core_location_indoors.mov?dl=1</string>
+				<key>Title</key>
+				<string>Taking Core Location Indoors</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/202xx3ane09vxdz/202/202_hd_whats_new_in_cocoa_touch.mov?dl=1</string>
+				<key>Title</key>
+				<string>What&apos;s New in Cocoa Touch</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/501xxfo4d68h054/501/501_hd_whats_new_in_core_audio.mov?dl=1</string>
+				<key>Title</key>
+				<string>What&apos;s New in Core Audio</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/225xxgzhqylosff/225/225_hd_whats_new_in_core_data.mov?dl=1</string>
+				<key>Title</key>
+				<string>What&apos;s New in Core Data</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/706xxjytntg51wd/706/706_hd_whats_new_in_core_location.mov?dl=1</string>
+				<key>Title</key>
+				<string>What&apos;s New in Core Location</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/707xx1o5tdjnvg9/707/707_hd_whats_new_in_foundation_networking.mov?dl=1</string>
+				<key>Title</key>
+				<string>What&apos;s New in Foundation Networking</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/411xx0xo98zzoor/411/411_hd_whats_new_in_interface_builder.mov?dl=1</string>
+				<key>Title</key>
+				<string>What&apos;s New in Interface Builder</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/713xx1il4h4ur9c/713/713_hd_whats_new_in_ios_notifications.mov?dl=1</string>
+				<key>Title</key>
+				<string>What&apos;s New in iOS Notifications</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/417xx2zsyyp8zcs/417/417_hd_whats_new_in_llvm.mov?dl=1</string>
+				<key>Title</key>
+				<string>What&apos;s New in LLVM</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/609xxkxq1v95fju/609/609_hd_whats_new_in_scenekit.mov?dl=1</string>
+				<key>Title</key>
+				<string>What&apos;s New in SceneKit</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/606xxql3qoibema/606/606_hd_whats_new_in_sprite_kit.mov?dl=1</string>
+				<key>Title</key>
+				<string>What&apos;s New in SpriteKit</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/226xxf6phq7ufzl/226/226_hd_whats_new_in_table_and_collection_views.mov?dl=1</string>
+				<key>Title</key>
+				<string>What&apos;s New in Table and Collection Views</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/603xx33n8igr5n1/603/603_hd_working_with_metal_overview.mov?dl=1</string>
+				<key>Title</key>
+				<string>Working with Metal: Overview</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/604xxg7crkljcr8/604/604_hd_working_with_metal_fundamentals.mov?dl=1</string>
+				<key>Title</key>
+				<string>Working with Metal: Fundamentals</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/605xxygcz4pd0h6/605/605_hd_working_with_metal_advanced.mov?dl=1</string>
+				<key>Title</key>
+				<string>Working with Metal: Advanced</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/506xxeo80e5kykp/506/506_hd_ensuring_continuity_between_your_app_and_web_site.mov?dl=1</string>
+				<key>Title</key>
+				<string>Your App, Your Website, and Safari</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/223xxp1uag2jn3n/223/223_hd_prototyping_fake_it_till_you_make_it.mov?dl=1</string>
+				<key>Title</key>
+				<string>Prototyping: Fake It Till You Make It</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2014/515xxv01d9tcg3o/515/515_hd_developing_core_image_filters_for_ios.mov?dl=1</string>
+				<key>Title</key>
+				<string>Developing Core Image Filters for iOS</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Year</key>
+		<string>2013</string>
+		<key>Videos</key>
+		<array>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2013/101xex1x82z7rpszsw/101/101-HD.mov?dl=1</string>
+				<key>Title</key>
+				<string>Platforms State of the Union</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2013/503xbx3xoaktjug4e05xvl04/503/503-HD.mov?dl=1</string>
+				<key>Title</key>
+				<string>Designing Games with Sprite Kit</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2013/214xex3xkbq0z93doa6o31c0/214/214-HD.mov?dl=1</string>
+				<key>Title</key>
+				<string>Customizing Your App’s Appearance for iOS 7</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2013/502xex3x2iwfiaeglpjw0mh54u/502/502-HD.mov?dl=1</string>
+				<key>Title</key>
+				<string>Introduction to Sprite Kit</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2013/213xax3xr33a8oxfsxg8bha/213/213-HD.mov?dl=1</string>
+				<key>Title</key>
+				<string>Best Practices for Cocoa Animation</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2013/210xbx3xpg6jhh8okmc7zc8j89/210/210-HD.mov?dl=1</string>
+				<key>Title</key>
+				<string>Introducing Text Kit</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2013/219xax4xjor8i6b9h77lafay32/219/219-HD.mov?dl=1</string>
+				<key>Title</key>
+				<string>Making Your App World-Ready</string>
+			</dict>
+			<dict>
+				<key>URL</key>
+				<string>http://devstreaming.apple.com/videos/wwdc/2013/223xex5xsgdfh1ergtjrqwoghbj/223/223-HD.mov?dl=1</string>
+				<key>Title</key>
+				<string>Using Fonts with Text Kit</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
