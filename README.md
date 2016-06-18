@@ -4,3 +4,4 @@ You can add iCloud Key-Value storage capability to sync watched ticks between de
 
 Other than that there's not much to it.
 
+![Screen Shot](ScreenShot.png)
